@@ -1,0 +1,13 @@
+.fillter-category-home li:hover
+{
+	color: #ff6a00;
+	cursor: pointer;
+}
+#findProduct{
+	width: 300px;
+	border: none;
+	border-bottom: 1px solid #eee;
+	outline: none;
+	font-size: 15px;
+	height: 40px;
+}
